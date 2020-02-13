@@ -1,1 +1,1 @@
-init
+https://natalibelevich.github.io/rsschool-cv/cv
